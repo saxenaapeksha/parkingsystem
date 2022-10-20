@@ -1,0 +1,124 @@
+---
+- name: smallParking
+  feesStructure:
+    - vehicleType: twoWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 1
+            unit: hour
+          price: 10
+    - vehicleType: lightWeightFourWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 1
+            unit: hour
+          price: 20
+    - vehicleType: heavyWeightFourWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 1
+            unit: hour
+          price: 50
+- name: mall
+  feesStructure:
+    - vehicleType: twoWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 1
+            unit: hour
+          price: 10
+    - vehicleType: lightWeightFourWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 1
+            unit: hour
+          price: 20
+    - vehicleType: heavyWeightFourWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 1
+            unit: hour
+          price: 50
+- name: stadium
+  feesStructure:
+    - vehicleType: twoWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 4
+            unit: hour
+          price: 30
+        - interval:
+            min: 4
+            max: 12
+            unit: hour
+          price: 60
+        - interval:
+            min: 12
+            max: 9999
+            unit: hour
+          price: 100
+    - vehicleType: lightWeightFourWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 4
+            unit: hour
+          price: 60
+        - interval:
+            min: 4
+            max: 12
+            unit: hour
+          price: 120
+        - interval:
+            min: 12
+            max: 9999
+            unit: hour
+          price: 200
+- name: airport
+  feesStructure:
+    - vehicleType: twoWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 1
+            unit: hour
+          price: 0
+        - interval:
+            min: 1
+            max: 8
+            unit: hour
+          price: 40
+        - interval:
+            min: 8
+            max: 24
+            unit: hour
+          price: 60
+        - interval:
+            min: 1
+            max: 9999
+            unit: day
+          price: 80
+    - vehicleType: lightWeightFourWheeler
+      fees:
+        - interval:
+            min: 0
+            max: 12
+            unit: hour
+          price: 60
+        - interval:
+            min: 12
+            max: 24
+            unit: hour
+          price: 80
+        - interval:
+            min: 1
+            max: 9999
+            unit: day
+          price: 100

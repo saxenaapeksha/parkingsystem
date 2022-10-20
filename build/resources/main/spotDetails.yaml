@@ -1,0 +1,14 @@
+---
+smallParking:
+  twoWheelerSpots: 2
+mall:
+  twoWheelerSpots: 1
+  lightWeightFourWheelerSpots: 2
+  heavyWeightFourWheelerSpots: 10
+stadium:
+  twoWheelerSpots: 1000
+  lightWeightFourWheelerSpots: 1500
+airport:
+  twoWheelerSpots: 200
+  lightWeightFourWheelerSpots: 500
+  heavyWeightFourWheelerSpots: 100

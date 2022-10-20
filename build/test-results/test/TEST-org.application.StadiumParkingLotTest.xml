@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.application.StadiumParkingLotTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-10-17T00:14:51" hostname="cpm-Latitude-3410" time="0.166">
+  <properties/>
+  <testcase name="testUnParkForMotorCycle" classname="org.application.StadiumParkingLotTest" time="0.027"/>
+  <testcase name="testInvalidVehicle" classname="org.application.StadiumParkingLotTest" time="0.033"/>
+  <testcase name="testParkSUV" classname="org.application.StadiumParkingLotTest" time="0.027"/>
+  <testcase name="testUnParkForMotorCycleII" classname="org.application.StadiumParkingLotTest" time="0.026"/>
+  <testcase name="testUnParkForSuv" classname="org.application.StadiumParkingLotTest" time="0.023"/>
+  <testcase name="testUnParkForSuvII" classname="org.application.StadiumParkingLotTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

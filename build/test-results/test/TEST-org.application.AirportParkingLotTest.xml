@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.application.AirportParkingLotTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-17T00:14:50" hostname="cpm-Latitude-3410" time="0.719">
+  <properties/>
+  <testcase name="testUnParkForCarI" classname="org.application.AirportParkingLotTest" time="0.414"/>
+  <testcase name="testUnParkForMotorcycle" classname="org.application.AirportParkingLotTest" time="0.067"/>
+  <testcase name="testParkTruck" classname="org.application.AirportParkingLotTest" time="0.061"/>
+  <testcase name="testUnParkForMotorcycleIII" classname="org.application.AirportParkingLotTest" time="0.051"/>
+  <testcase name="testUnParkForCar" classname="org.application.AirportParkingLotTest" time="0.042"/>
+  <testcase name="testUnParkForSuv" classname="org.application.AirportParkingLotTest" time="0.038"/>
+  <testcase name="testUnParkForMotorcycleII" classname="org.application.AirportParkingLotTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
